@@ -19,14 +19,13 @@ The goal of this project is to build and analyze an ASR system using Hindi speec
 ---
 
 ## 📁 Project Structure
-Automatic-Speech-Recognition/```
-│
+
+Automatic-Speech-Recognition/
 ├── data/
 │   ├── audio/
 │   │   └── 825780.wav
 │   └── text/
 │       └── 825780.json
-│
 ├── build_dataset.py
 ├── preprocess.py
 ├── train.py
@@ -34,7 +33,6 @@ Automatic-Speech-Recognition/```
 ├── cleanup.py
 ├── spell_check.py
 ├── lattice.py
-│
 ├── dataset.json
 ├── clean_dataset.json
 ├── requirements.txt
