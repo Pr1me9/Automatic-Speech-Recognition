@@ -20,6 +20,7 @@ The goal of this project is to build and analyze an ASR system using Hindi speec
 
 ## 📁 Project Structure
 Automatic-Speech-Recognition/
+
 │
 ├── data/
 │ ├── audio/
@@ -46,7 +47,7 @@ Automatic-Speech-Recognition/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/asr-project.git](https://github.com/Pr1me9/Automatic-Speech-Recognition.git
+git clone https://github.com/Pr1me9/Automatic-Speech-Recognition.git
 cd Automatic-Speech-Recognition
 
 2. Install dependencies:
