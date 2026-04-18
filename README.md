@@ -20,6 +20,7 @@ The goal of this project is to build and analyze an ASR system using Hindi speec
 
 ## 📁 Project Structure
 
+```
 Automatic-Speech-Recognition/
 ├── data/
 │   ├── audio/
@@ -37,6 +38,7 @@ Automatic-Speech-Recognition/
 ├── clean_dataset.json
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ Setup Instructions
 
